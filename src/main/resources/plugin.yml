@@ -1,0 +1,4 @@
+name: LocalChats
+version: '${project.version}'
+main: me.adelemphii.localchats.LocalChats
+api-version: 1.16
